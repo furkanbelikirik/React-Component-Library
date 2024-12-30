@@ -1,8 +1,14 @@
-# React + Vite
+# React Component Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Scrimba Front-End Developer Career Path](https://scrimba.com/learn/frontend) kursu kapsamında React ile oluşturulmuş bir bileşen kütüphanesidir. Tasarım Scrimba tarafından kurs kapsamında verilen Figma dosyasına göre yapılmıştır.
 
-Currently, two official plugins are available:
+**[Projeyi görmek için tıklayınız...]()**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Bileşenler
+
+- Badge
+- Banner
+- Card
+- Testimonial
+- Tooltip
+- Toast
