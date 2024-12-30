@@ -1,0 +1,46 @@
+/* Banners */
+
+.banner-container > .components {
+	display: block;
+}
+
+.banner {
+	display: flex;
+	flex-direction: column;
+	padding: 16px;
+	border-radius: 6px;
+	gap: 8px;
+	font-weight: 500;
+}
+
+.banner span i {
+	margin-right: 14px;
+}
+
+.multi > p {
+	margin: 0;
+	font-weight: 400;
+	padding-left: 30px;
+}
+
+/* Banner Colors */
+
+.success {
+	background-color: #ecfdf5;
+	color: #047857;
+}
+
+.warning {
+	background-color: #fffbeb;
+	color: #b45309;
+}
+
+.error {
+	background-color: #fef2f2;
+	color: #b45309;
+}
+
+.neutral {
+	background-color: #eff6ff;
+	color: #1c51b9;
+}
