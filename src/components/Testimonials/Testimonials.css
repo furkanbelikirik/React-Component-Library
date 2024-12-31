@@ -39,13 +39,17 @@
 	text-align: center;
 }
 
-.testimonial > .content > .name {
-	font-size: 16px;
+.testimonial > .content > .footer {
+	display: flex;
+	gap: 8px;
+	font-size: clamp(0.73rem, 2vw, 1.5rem);
+}
+
+.testimonial > .content > .footer > .name {
 	font-weight: 500;
 }
 
-.testimonial > .content > .role {
-	font-size: 16px;
+.testimonial > .content > .footer > .role {
 	font-weight: 500;
 	color: #6b7280;
 }

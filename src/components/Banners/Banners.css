@@ -6,22 +6,20 @@
 
 .banner {
 	display: flex;
-	flex-direction: column;
 	padding: 16px;
 	border-radius: 6px;
 	gap: 8px;
+}
+
+.banner .banner-title {
 	font-weight: 500;
+	
 }
 
-.banner span i {
-	margin-right: 14px;
-}
-
-.multi > p {
-	margin: 0;
+.banner .banner-text {
 	font-weight: 400;
-	padding-left: 30px;
 }
+
 
 /* Banner Colors */
 
